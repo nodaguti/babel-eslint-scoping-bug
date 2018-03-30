@@ -10,7 +10,6 @@
     "babel-preset-es2015": "^6.24.1",
     "eslint": "3.19.0",
     "eslint-plugin-flowtype": "^2.46.1",
-    "eslint-scope": "^3.7.1",
     "flow-bin": "^0.69.0"
   }
 }
